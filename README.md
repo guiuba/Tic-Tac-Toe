@@ -1,3 +1,5 @@
+My implementation of the classic Xs and Os game (stage 5/5 of Tic-Tac-Toe project from Jet Brains Academy). 
+
 import java.util.Scanner;
 
 public class Main {
