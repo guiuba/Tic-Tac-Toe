@@ -8,7 +8,7 @@ Notice that after Enter the coordinates: comes the user input.
 
 ---------
 
-|       |
+|                                             |
 
 |       |
 
