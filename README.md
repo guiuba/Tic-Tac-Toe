@@ -1,7 +1,5 @@
 My implementation of the classic Xs and Os game (stage 5/5 of Tic-Tac-Toe project from Jet Brains Academy). 
 
-Example:
-
 The example below shows  how program works.
 
 Notice that after Enter the coordinates: comes the user input.
