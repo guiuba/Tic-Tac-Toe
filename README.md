@@ -7,10 +7,15 @@ The example below shows  how program works.
 Notice that after Enter the coordinates: comes the user input.
 
 ---------
+
 |       |
+
 |       |
+
 |       |
+
 ---------
+
 Enter the coordinates: 2 2
 ---------
 |       |
